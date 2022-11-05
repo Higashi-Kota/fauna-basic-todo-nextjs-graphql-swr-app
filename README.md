@@ -1,0 +1,1 @@
+# fauna-basic-todo-nextjs-graphql-swr-app
